@@ -11,9 +11,9 @@
         - [ ] **Var**, **let**, **const**
         - [ ] Các kiểu dữ liệu: **string, number, boolean, null, undefined, object, symbol**
     - [ ] Toán tử:
-        - [] Số học: **+, -, \*, /, %**
-        - [] So sánh: **==, ===, `!==`, `!=`, <, >, <=, >=**
-        - [] Logic: **&&, ||, !**
+        - [ ] Số học: **+, -, \*, /, %**
+        - [ ] So sánh: **==, ===, `!==`, `!=`, <, >, <=, >=**
+        - [ ] Logic: **&&, ||, !**
 - [ ] **Câu lệnh điều kiện và vòng lặp**
     - [ ] **if, else if, else**
     - [ ] **switch** (Điều kiện rẽ nhánh)
